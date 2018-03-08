@@ -1,0 +1,62 @@
+body {
+  background: url("../images/bg.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+} 
+
+    * {
+      box-sizing: border-box;
+    }
+
+   
+    button {
+      color: rgb(1, 1, 10);
+      background-color: #999999;
+    }
+    button:hover {
+      background-color: blue;
+    }
+
+    img {
+      height: 150px;
+      width: 150px;
+      
+    }
+
+    .btn {
+      margin: 4px;
+      border-color: #fff;
+      background-color: #999999;
+      padding: 5px;
+
+    }
+    .animal {
+      margin: 10px;
+    }
+
+    .gifDiv {
+      float: left;
+      margin: 3px;
+      padding: 5px;
+    }
+
+    .container {
+      background-color: #fff;
+      padding: 10px;
+      opacity: 1
+    }
+
+    .jumbotron {
+      background-color: inherit;
+    }
+
+    .jumbotron .h1, .jumbotron h1 {
+      text-align: center;
+    }
+
+    footer {
+      text-align: center;
+    }
+
+   
